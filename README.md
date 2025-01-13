@@ -1,7 +1,7 @@
-# TRON Auto-Transfer / Sweeper Bot / TRX Auto-Withdraw 
+# TRON Auto-Transfer / Multisig Sweeper Bot / TRX Auto-Withdraw 
 
 ## Overview
-This Bot automates TRX (TRON cryptocurrency) transactions, enabling users to manage their wallets efficiently and securely. 
+This Bot automates TRX (TRON cryptocurrency) Multisig transactions, enabling users to manage their wallets efficiently and securely. 
 With features like encrypted private key handling and API key cycling, this tool is ideal for crypto Management. 
 
 [![TRON Auto-Transfer / Sweeper Bot / TRX Auto-Withdraw](https://img.youtube.com/vi/6QUeojtBmVY/maxresdefault.jpg)](https://www.youtube.com/watch?v=6QUeojtBmVY)
@@ -17,7 +17,7 @@ With features like encrypted private key handling and API key cycling, this tool
 
 ### ⚡ Efficient Transactions
 - Automates TRX transfers to a list of recipient addresses.
-- Reserves a predefined amount in the wallet to ensure availability of funds.
+- Reserves a predefined amount in the Multisig wallet to ensure availability of funds.
 - Calculates and deducts transaction fees dynamically priorizing free Bandwidth  .
 
 ### 🎯 Optimized Performance
