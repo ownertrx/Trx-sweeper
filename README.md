@@ -25,6 +25,38 @@ With features like encrypted private key handling and API key cycling, this tool
 - Fully asynchronous for high-speed operations.
 - Easily customizable for specific use cases.
 
+  # Pricing
+
+## Available Services and Products
+
+### 1. **Bot Script**
+- Price: **$150**
+- Includes:
+  - The complete TRON Auto-Transfer Script.
+  - Secure and optimized for automated TRX transactions.
+
+### 2. **Step-by-Step Tutorial**
+- Price: **$20**
+- Includes:
+  - Detailed video guidance on setting up and using the bot.
+  - Clear instructions for customizing and running the script.
+
+### 3. **Customization and Cloud Deployment**
+- Price: **$50**
+- Includes:
+  - Personalization of the bot to meet your specific requirements.
+  - Cloud deployment with 1 year of hosting.
+
+---
+
+## How to Purchase
+For inquiries or purchases, contact me at:
+- **Telegram:** [@Mr_Marin_18](https://t.me/Mr_Marin_18)
+- **Email:** [awstrx@proton.me]
+
+Payments accepted via [BTC - XMR - TRX - USDT ].
+
+
 ## Disclaimer
  By using this script, you acknowledge and agree that: You are solely responsible for complying with all applicable laws and regulations in your jurisdiction.
 
