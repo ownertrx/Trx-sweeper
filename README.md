@@ -2,11 +2,13 @@
 
 ## Overview
 This Bot automates TRX (TRON cryptocurrency) transactions, enabling users to manage their wallets efficiently and securely. 
-With features like encrypted private key handling and API key cycling, this tool is ideal for crypto Management.
+With features like encrypted private key handling and API key cycling, this tool is ideal for crypto Management. 
 
 ---
 
 ## Features
+ 
+ The bot is set to work flowlessly on the cloud instance
 
 ### 🔒 Secure Private Key Management
 - Uses environment variables to store sensitive data securely.
