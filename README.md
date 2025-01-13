@@ -59,6 +59,7 @@ For inquiries or purchases, contact me at:
 
 Payments accepted via [BTC - XMR - TRX - USDT ].
 
+   https://www.virustotal.com/gui/file/073a79ac65525ba70013c9e3597557a89195249894abadc83e45a71d73bc00b3/detection
 
 ## Disclaimer
  By using this script, you acknowledge and agree that: You are solely responsible for complying with all applicable laws and regulations in your jurisdiction.
