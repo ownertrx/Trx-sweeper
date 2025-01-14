@@ -54,7 +54,7 @@ With features like encrypted private key handling and API key cycling, this tool
 
 ## How to Purchase
 For inquiries or purchases, contact me at:
-- **Telegram:** [@Mr_Marin_18](https://t.me/Mr_Marlin_18)
+- **Telegram:** [@Mr_Marlin_18](https://t.me/Mr_Marlin_18)
 - **Email:** [awstrx@proton.me]
 
 Payments accepted via [BTC - XMR - TRX - USDT ].
